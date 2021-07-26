@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ThirdPersonExample.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{84480AF2-57EA-4F20-8569-85B9E79A257B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ThirdPersonExample.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ThirdPersonExampleEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{27116723-4FA5-43FA-967F-79DE06825826}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ThirdPersonExample">
+      <UniqueIdentifier>{7AA32DAD-8314-444B-9EDD-A17A2CF1F067}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ThirdPersonExample\BatteryMan.cpp">
+      <Filter>Source\ThirdPersonExample</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ThirdPersonExample\BatteryMan.h">
+      <Filter>Source\ThirdPersonExample</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ThirdPersonExample\BatteryMan_GameMode.cpp">
+      <Filter>Source\ThirdPersonExample</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ThirdPersonExample\BatteryMan_GameMode.h">
+      <Filter>Source\ThirdPersonExample</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\ThirdPersonExample\ThirdPersonExample.Build.cs">
+      <Filter>Source\ThirdPersonExample</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ThirdPersonExample\ThirdPersonExample.cpp">
+      <Filter>Source\ThirdPersonExample</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ThirdPersonExample\ThirdPersonExample.h">
+      <Filter>Source\ThirdPersonExample</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ThirdPersonExample\ThirdPersonExampleCharacter.cpp">
+      <Filter>Source\ThirdPersonExample</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ThirdPersonExample\ThirdPersonExampleCharacter.h">
+      <Filter>Source\ThirdPersonExample</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ThirdPersonExample\ThirdPersonExampleGameMode.cpp">
+      <Filter>Source\ThirdPersonExample</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ThirdPersonExample\ThirdPersonExampleGameMode.h">
+      <Filter>Source\ThirdPersonExample</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

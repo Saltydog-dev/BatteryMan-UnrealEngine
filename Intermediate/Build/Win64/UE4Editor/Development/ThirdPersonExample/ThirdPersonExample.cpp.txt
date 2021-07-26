@@ -1,0 +1,2 @@
+C:\UnrealProjects\ThirdPersonExample\Intermediate\Build\Win64\UE4Editor\Development\ThirdPersonExample\Definitions.ThirdPersonExample.h
+C:\UnrealProjects\ThirdPersonExample\Source\ThirdPersonExample\ThirdPersonExample.h

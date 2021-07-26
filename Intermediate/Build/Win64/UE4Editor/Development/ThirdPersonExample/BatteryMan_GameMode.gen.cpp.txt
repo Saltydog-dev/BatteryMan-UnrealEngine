@@ -1,0 +1,11 @@
+C:\UnrealProjects\ThirdPersonExample\Intermediate\Build\Win64\UE4Editor\Development\ThirdPersonExample\Definitions.ThirdPersonExample.h
+C:\UnrealEngine\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\UnrealEngine\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\UnrealProjects\ThirdPersonExample\Source\ThirdPersonExample/BatteryMan_GameMode.h
+C:\UnrealEngine\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameMode.h
+C:\UnrealEngine\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\UnrealEngine\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\UnrealEngine\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\UnrealEngine\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\UnrealEngine\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameMode.generated.h
+C:\UnrealProjects\ThirdPersonExample\Intermediate\Build\Win64\UE4Editor\Inc\ThirdPersonExample\BatteryMan_GameMode.generated.h

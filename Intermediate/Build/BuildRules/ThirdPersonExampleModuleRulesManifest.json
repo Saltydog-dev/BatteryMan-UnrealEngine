@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\UnrealProjects\\ThirdPersonExample\\Source\\ThirdPersonExample\\ThirdPersonExample.Build.cs",
+		"C:\\UnrealProjects\\ThirdPersonExample\\Source\\ThirdPersonExample.Target.cs",
+		"C:\\UnrealProjects\\ThirdPersonExample\\Source\\ThirdPersonExampleEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}
